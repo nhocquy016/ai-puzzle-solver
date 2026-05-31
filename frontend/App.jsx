@@ -1,15 +1,3 @@
-/**
- * frontend/src/App.jsx
- * ====================
- * React frontend cho AI Puzzle Solver
- *
- * Cài đặt:
- *   npm create vite@latest frontend -- --template react
- *   cd frontend && npm install
- *   npm run dev
- *
- * Yêu cầu backend FastAPI đang chạy tại localhost:8000
- */
 
 import { useState, useEffect, useRef, useCallback } from "react";
 
